@@ -28,7 +28,6 @@ while game_is_on:
     screen.update()
 
     # Create and move car
-    time.sleep(6)
     cars.make_car()
     cars.move()
 
